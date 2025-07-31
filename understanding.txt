@@ -1,0 +1,7 @@
+abstraction : hide the complexity let the user feel the normal interface here 
+encapsulation : data privacy protect it form misuse 
+inheritance : code reusabilty and  share common functionality 
+polymorphism : flexibility , let one thing work in different forms 
+
+
+
